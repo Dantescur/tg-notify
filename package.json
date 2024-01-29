@@ -13,6 +13,7 @@
     "sender"
   ],
   "author": "Daniel",
+  "github": "https://github.com/Dantescur/tg-notify.git",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.7",
