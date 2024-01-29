@@ -1,5 +1,5 @@
 {
-  "name": "tg-notify",
+  "name": "@areitosa/tg-notify",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
